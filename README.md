@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @renato-acc
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Full-Stack Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me renatobarrinha15@gmail.com
+Welcome to my GitHub page, please find my projects below!
+
+If you wish to contact me, you can reach me at cordeiro.york@gmail.com and\or on Linkedin at https://www.linkedin.com/in/renato-cordeiro/
+
+
+Thank you,
+Renato Cordeiro
 
 <!---
 renato-acc/renato-acc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
